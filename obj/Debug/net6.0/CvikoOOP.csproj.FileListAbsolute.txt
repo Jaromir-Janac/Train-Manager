@@ -1,0 +1,15 @@
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\bin\Debug\net6.0\CvikoOOP.exe
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\bin\Debug\net6.0\CvikoOOP.deps.json
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\bin\Debug\net6.0\CvikoOOP.runtimeconfig.json
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\bin\Debug\net6.0\CvikoOOP.dll
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\bin\Debug\net6.0\CvikoOOP.pdb
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\obj\Debug\net6.0\CvikoOOP.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\obj\Debug\net6.0\CvikoOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\obj\Debug\net6.0\CvikoOOP.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\obj\Debug\net6.0\CvikoOOP.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\obj\Debug\net6.0\CvikoOOP.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\obj\Debug\net6.0\CvikoOOP.dll
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\obj\Debug\net6.0\refint\CvikoOOP.dll
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\obj\Debug\net6.0\CvikoOOP.pdb
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\obj\Debug\net6.0\CvikoOOP.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Solutions\ExcrecisesOnClasses\CvikoOOP\obj\Debug\net6.0\ref\CvikoOOP.dll
